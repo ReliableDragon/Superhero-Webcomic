@@ -1,0 +1,1 @@
+Docker image can be found here: https://hub.docker.com/r/sethborder/webcomic/
